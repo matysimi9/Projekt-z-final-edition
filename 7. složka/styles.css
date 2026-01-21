@@ -1,0 +1,26 @@
+Body {
+    margin: 0;
+    padding: 0;
+    font font-family: white-space:
+}
+
+.wrap {
+    padding: 16px;
+}
+
+h2{
+    background: red;
+}
+
+a {background: orange;}
+
+.d1, .a1 {
+    display: inline-block;
+    border: 2px;
+    margin: 12px;
+    padding: 10px;
+    background: purple;
+    width: 180px;
+    height: 80px;
+    margin-top: 80px;
+}
